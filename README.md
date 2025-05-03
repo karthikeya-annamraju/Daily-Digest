@@ -4,7 +4,7 @@ DailyDigest is a clean and modern Flutter news aggregator application that deliv
 
 ## 🔥 Features
 
-- 🔐 Firebase Authentication (Email & Google Sign-In)
+- 🔐 Firebase Authentication
 - 📰 Categorized News Feeds (Sports, Health, Entertainment, Business, General)
 - 🌐 Live News fetched via News API
 - 🧠 Personalized News Experience
@@ -14,7 +14,7 @@ DailyDigest is a clean and modern Flutter news aggregator application that deliv
 
 ## 📱 Screenshots
 
-> *(Add screenshots of Home, Login, News Categories, etc.)*
+> *(To be added soon)*
 
 ## 🚀 Technologies Used
 
@@ -40,13 +40,9 @@ DailyDigest is a clean and modern Flutter news aggregator application that deliv
    flutter pub get
    flutter run
 
-📌 To-Do (Future Enhancements)
-Save user preferences in Firestore
-
-Dark mode toggle
-
-Offline news reading
-
-Bookmarking news articles
-
-Push notifications for breaking news
+## 📌 To-Do (Future Enhancements)
+- Save user preferences in Firestore
+- Dark mode toggle
+- Offline news reading
+- Bookmarking news articles
+- Push notifications for breaking news
